@@ -3,8 +3,6 @@ import { StyleSheet, View, ScrollView } from 'react-native';
 
 //Importación del componente contenedor de Gráficos
 import Graficos from './src/components/Graficos';
-
-//Importacion del componente Formulario.js
 import Formulario from './src/components/Formulario';
 
 
